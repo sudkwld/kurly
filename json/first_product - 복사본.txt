@@ -1,0 +1,29 @@
+[{
+  "title1":"[그로서리서울] 배부른 현미 곤약밥 2종",
+  "sale1":"9%",
+  "price1":"2,350원",
+  "xprice1":"2600원",
+  "url1":"main2_product1.webp",
+  "cart1":"cart_white.svg"
+}, {
+  "title1":"[밥이야] 밥맛좋은밥 라이트 6종",
+  "sale1":"10%",
+  "price1":"2,500원",
+  "xprice1":"3,400원",
+  "url1":"main2_product2.webp",
+  "cart1":"cart_white.svg"
+}, {
+  "title1":"[햇반] 발아현미밥 210g (8입)",
+  "sale1":"7%",
+  "price1":"14,861원",
+  "xprice1":"15,980원",
+  "url1":"main2_product3.jpeg",
+  "cart1":"cart_white.svg"
+}, {
+  "title1":"[그로서리서울] 배부른 퀴노아 곤약밥 2",
+  "sale1":"9%",
+  "price1":"2,350원",
+  "xprice1":"2,600원",
+  "url1":"main2_product4.jpg",
+  "cart1":"cart_white.svg"
+}]
